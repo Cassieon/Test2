@@ -1,1 +1,1 @@
-print (git "hello world")
+print (git "bye world")
